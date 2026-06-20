@@ -8,7 +8,7 @@ Currently developing open cybersecurity educational resources through the Truth 
 
 ## Featured Project
 
-- Cybersecurity Open Courses
+- [Cybersecurity Open Courses](https://github.com/SergeTruth/cybersecurity-open-courses)
 
 ## Interests
 
