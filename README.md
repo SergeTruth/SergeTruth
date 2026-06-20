@@ -1,16 +1,21 @@
-## Hi there 👋
+# Serge Truth
 
-<!--
-**SergeTruth/SergeTruth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity professional, educator, and builder.
 
-Here are some ideas to get you started:
+Currently developing open cybersecurity educational resources through the Truth Surge initiative.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+- Cybersecurity Open Courses
+
+## Interests
+
+- Application Security
+- AI Security
+- Secure SDLC
+- Threat Hunting
+- Software Supply Chain Security
+- Knowledge Management
+- Security Education
+
+Website: https://truthsurge.net
